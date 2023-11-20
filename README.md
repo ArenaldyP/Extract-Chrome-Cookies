@@ -1,5 +1,5 @@
 # Extract-Chrome-Cookies-Dengan-Python 😎😎
-Proyek ini adalah skrip Python sederhana yang memungkinkan Anda mengambil dan mendekripsi (cookies) dari database Google Chrome lokal. Dengan menggunakan teknik kriptografi dan manipulasi database, skrip ini dapat mengekstrak informasi berharga dari kuki yang disimpan oleh browser Chrome, termasuk waktu pembuatan, waktu akses terakhir, dan nilai kuki yang sudah didekripsi.
+Proyek ini adalah skrip Python sederhana yang memungkinkan Anda mengambil dan mendekripsi (cookies) dari database Google Chrome lokal. Dengan menggunakan teknik kriptografi dan manipulasi database, skrip ini dapat mengekstrak informasi berharga dari cookies yang disimpan oleh browser Chrome, termasuk waktu pembuatan, waktu akses terakhir, dan nilai kuki yang sudah didekripsi.
 
 ## Fitur Utama:
 * Mendekripsi cookies yang terenkripsi dari database Chrome.
